@@ -5,3 +5,4 @@ def factorial(x):
         return x * factorial(x - 1) 
 fact = factorial(5)
 print(fact)
+print("Yes")
